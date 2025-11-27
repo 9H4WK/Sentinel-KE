@@ -2,7 +2,7 @@
 
 AI service that watches public social feeds (EN/SW), flags **incitement / hate / violent threats** in real time, and pushes **actionable alerts** to analysts.
 
-<img width="1536" height="1024" alt="Semtinel KE" src="https://github.com/user-attachments/assets/e3ca4e87-cff0-49ff-8c31-f36b9b49f6b2" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5259ba74-680f-4349-a203-d96c1b0ac946" />
 
 ---
 
